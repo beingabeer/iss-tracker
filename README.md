@@ -10,9 +10,10 @@ This script uses [Open Notify](http://open-notify.org/)
 
 Clone the repo.
 
-`git clone https://github.com/beingabeer/iss-tracker.git`
-`cd iss-tracker`
-
+```
+git clone https://github.com/beingabeer/iss-tracker.git
+cd iss-tracker
+```
 Install dependencies:
 
 ```
